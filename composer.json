@@ -1,0 +1,17 @@
+{
+    "name": "jii-piikouakou/cit_sae",
+    "autoload": {
+        "psr-4": {
+            "JiiPiikouakou\\CitSae\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jiipii"
+        }
+    ],
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.13",
+        "dompdf/dompdf": "^2.0"
+    }
+}
